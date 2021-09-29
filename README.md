@@ -22,6 +22,15 @@ Several other types of copyleft licenses include the Mozilla Public License, Ecl
 	
 Open-source software and copyleft licensing continues to be an important contribution to modern computing. A recent development in copyleft field is the introduction of the copyleft symbol, a backwards “C” in a circle which is the reverse of the copyright symbol, into Unicode in 2016 (Miller). Copyleft licensing continues to be utilized to this day, with popular software such as Firefox and Java utilizing copyleft licenses.
 
+
+
+
+![image](https://user-images.githubusercontent.com/89352965/135333914-096aeddb-0bf6-495d-b7a3-f6685b6d86d1.png)
+Shown above is the Copyleft symbol from https://commons.wikimedia.org/wiki/File:Copyleft_symbol2.svg
+
+
+
+
 Works Cited
 
 “Copyleft Definition.” The Linux Information Project, The Linux Information Project, 24 June 2006, http://www.linfo.org/copyleft.html. 
