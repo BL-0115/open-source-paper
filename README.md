@@ -30,7 +30,6 @@ Open-source software and copyleft licensing continues to be an important contrib
 
 
 
-
 **Works Cited**
 
 “Copyleft Definition.” The Linux Information Project, The Linux Information Project, 24 June 2006, http://www.linfo.org/copyleft.html. 
