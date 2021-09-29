@@ -20,7 +20,7 @@ Generally, when a software is copyrighted, it must be done so under a specific l
 	
 Several other types of copyleft licenses include the Mozilla Public License, Eclipse Public License, and the Open Software License (Miller). The Mozilla Public License requires that the source code of the software be available upon release, though not other proprietary components. This is also the license under which the popular Firefox browser is licensed. The Eclipse Public License does not require the source code to be published, though there must be a link to proprietary code. Finally, the Open Software License is very similar to the GPL, as it requires the source to be disclosed.
 	
-Open-source software and copyleft licensing continues to be an important contribution to modern computing. A recent development in copyleft field is the introduction of the copyleft symbol, a backwards “C” in a circle which is the reverse of the copyright symbol, into Unicode in 2016 (Miller). Copyleft licensing continues to be utilized to this day, with popular software such as Firefox and Java utilizing copyleft licenses.
+Open-source software and copyleft licensing continues to be an important contribution to modern computing. A recent development in the copyleft field is the introduction of the copyleft symbol, a backwards “C” in a circle which is the reverse of the copyright symbol, into Unicode in 2016 (Miller). Copyleft licensing continues to be utilized to this day, with popular software such as Firefox and Java utilizing copyleft licenses.
 
 
 <img src="https://user-images.githubusercontent.com/89352965/135335145-27f79e94-f75f-47b1-ab63-1b7289c55a7e.png" alt="Copyleft symbol" style="height:100px;width:100px;"/>
