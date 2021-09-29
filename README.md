@@ -22,8 +22,6 @@ Brief History of and Defining Copyleft
 	
 	 Open-source software and copyleft licensing continues to be an important contribution to modern computing. A recent development in copyleft field is the introduction of the copyleft symbol, a backwards “C” in a circle which is the reverse of the copyright symbol, into Unicode in 2016 (Miller). Copyleft licensing continues to be utilized to this day, with popular software such as Firefox and Java utilizing copyleft licenses.
 
-![Copyleft Symbol](![image](https://user-images.githubusercontent.com/89352965/135333620-5411d1d2-f10c-4918-ba49-dddbd8995c84.png)
-
 Works Cited
 
 “Copyleft Definition.” The Linux Information Project, The Linux Information Project, 24 June 2006, http://www.linfo.org/copyleft.html. 
