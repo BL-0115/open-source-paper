@@ -25,7 +25,7 @@ Open-source software and copyleft licensing continues to be an important contrib
 
 <img src="https://user-images.githubusercontent.com/89352965/135335145-27f79e94-f75f-47b1-ab63-1b7289c55a7e.png" alt="Copyleft symbol" style="height:100px;width:100px;"/>
 
-**Shown above is the Copyleft symbol from https://commons.wikimedia.org/wiki/File:Copyleft_symbol2.svg
+**Shown above is the Copyleft symbol from https://commons.wikimedia.org/wiki/File:Copyleft_symbol2.svg**
 
 
 
