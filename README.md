@@ -1,4 +1,4 @@
-# open-source-paper
+# Brief History of and Defining Copyleft
 
 Benjamin Laird
 Professor Dunn
@@ -16,6 +16,7 @@ Brief History of and Defining Copyleft
 
 
 Works Cited
+
 “Copyleft Definition.” The Linux Information Project, The Linux Information Project, 24 June 2006, http://www.linfo.org/copyleft.html. 
 Miller, Alyssa. “Copyleft: The Rise of Open-Source Software Licensing.” Snyk, Snyk Limited, 23 Sept. 2020, https://snyk.io/learn/what-is-copyleft-license/. 
 “What Is Copyleft?” GNU Operating System, Free Software Foundation, 15 Dec. 2018, https://www.gnu.org/licenses/copyleft.en.html. 
