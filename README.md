@@ -1,8 +1,11 @@
 # Brief History of and Defining Copyleft
 
 Benjamin Laird
+
 Professor Dunn
+
 MIS-411-002
+
 24 September 2021
 
 Brief History of and Defining Copyleft
